@@ -92,7 +92,7 @@ body{
 .user-actions ul{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 5xp;
+    gap: 5px;
 }
 
 .user-actions button{
