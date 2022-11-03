@@ -41,7 +41,7 @@ body{
 
 .user-info ul{
     display: grid;
-    grid-template-columns: 1fr 1fr ;
+    grid-template-columns: 1fr 2fr ;
     justify-items: center;
     align-items: center;
     gap:25px;
